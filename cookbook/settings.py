@@ -126,5 +126,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 GRAPHENE = {
-    "SCHEMA": "cookbook.schema.schema"
+    "SCHEMA": "ingredients.schema.schema"
 }
